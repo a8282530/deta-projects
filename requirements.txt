@@ -1,0 +1,6 @@
+pip==22.1.2
+httpx==0.21.3
+httpx[http2]
+fastapi==0.78.0
+addict==2.4.0
+deta[async]==1.1.0a2

@@ -1,0 +1,1 @@
+{"id":"c742dfb8-2e2b-4c41-9cd0-c7235762f5f1","space":3908,"runtime":"python3.9","name":"lanzous","path":"5k12a0","project":"a0nqnw3h","account":"144798365827","region":"ap-southeast-1","deps":["fastapi==0.78.0","httpx==0.21.3","httpx[http2]","pip==22.1.2","addict==2.4.0","deta[async]==1.1.0a2"],"envs":null,"public":true,"log_level":"debug","cron":""}
